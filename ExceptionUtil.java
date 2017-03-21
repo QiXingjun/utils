@@ -1,5 +1,3 @@
-package com.taotao.utils;
-
 import java.io.PrintWriter;
 import java.io.StringWriter;
 
