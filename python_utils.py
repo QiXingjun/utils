@@ -16,3 +16,10 @@ with open('csv_name.csv','wb') as f:
         f.write(','.join(headers))
         f.write('\n')
         f_csv.writerows(info_list)
+
+=========================================================================
+#python json转dict
+
+import json
+
+d = json.loads(param)
